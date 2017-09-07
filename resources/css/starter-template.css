@@ -1,3 +1,22 @@
 body {
   margin-top: 5rem;
+  background-image: url("../images/brushed-metal-texture-1145383.jpg");
+  background-repeat: repeat;
+}
+.bg-dark {
+  background-color: rgba(52, 58, 64, 0.7)!important;
+}
+.jumbotron {
+  background-image: url("../images/carbon-fiber-1150228.jpg");
+  background-repeat: repeat;
+  color: white;
+}
+.list-group-item {
+  background-color: rgba(52, 58, 64, 0.15);
+  font-weight: bold;
+  text-shadow: 1px 1px 3px black;
+}
+
+.list-group-item a {
+  color: #e0e0e0;
 }
