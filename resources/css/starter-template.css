@@ -6,10 +6,13 @@ body {
 .bg-dark {
   background-color: rgba(52, 58, 64, 0.7)!important;
 }
+.dropdown-menu {
+  background-color: rgba(255, 255, 255, 0.7);
+}
 .jumbotron {
   background-image: url("../images/carbon-fiber-1150228.jpg");
   background-repeat: repeat;
-  color: white;
+  color: rgba(224, 224, 224, 1);
 }
 .list-group-item {
   background-color: rgba(52, 58, 64, 0.15);
@@ -18,5 +21,5 @@ body {
 }
 
 .list-group-item a {
-  color: #e0e0e0;
+  color: rgba(224, 224, 224, 1);
 }
