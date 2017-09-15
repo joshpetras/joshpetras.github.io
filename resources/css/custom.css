@@ -13,6 +13,7 @@ body {
   background-image: url("../images/carbon-fiber-1150228.jpg");
   background-repeat: repeat;
   color: rgba(224, 224, 224, 1);
+  border-radius: 0;
 }
 .list-group-item {
   background-color: rgba(52, 58, 64, 0.15);
