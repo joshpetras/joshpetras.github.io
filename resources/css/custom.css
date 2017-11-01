@@ -22,6 +22,10 @@ body > div.container > div > div.col-md-6 > h4 {
   text-shadow: 1px 1px 3px black;
 }
 
+.list-group {
+  margin-bottom: 2rem;
+}
+
 .list-group-item {
   background-color: rgba(52, 58, 64, 0.15);
   font-weight: bold;
@@ -34,12 +38,4 @@ body > div.container > div > div.col-md-6 > h4 {
 
 .list-group-item a:hover {
   text-shadow: 1px 1px 3px blue;
-}
-
-#bws-list {
-  margin-bottom: 2rem;
-}
-
-#bwa-list {
-  margin-bottom: 2rem;
 }
