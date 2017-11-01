@@ -36,6 +36,10 @@ body > div.container > div > div.col-md-6 > h4 {
   text-shadow: 1px 1px 3px blue;
 }
 
-#project-list {
+#bws-list {
+  margin-bottom: 2rem;
+}
+
+#bwa-list {
   margin-bottom: 2rem;
 }
