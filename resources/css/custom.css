@@ -26,7 +26,7 @@ body > div.container > div > div.col-md-6 > h4 {
 body > div.container > div > div.col-md-6 > span {
   text-align: center;
   display: block;
-  font-size: 1rem;
+  font-size: .75rem;
   color: rgba(224, 224, 224, 1);
   text-shadow: 1px 1px 3px black;
   margin-bottom: .5rem;
@@ -50,8 +50,8 @@ body > div.container > div > div.col-md-6 > span {
   text-shadow: 1px 1px 3px blue;
 }
 
-@media (max-width: 991px) {
+@media (min-width: 992px) {
   body > div.container > div > div.col-md-6 > span {
-    font-size: .75rem;
+    font-size: 1rem;
   }
 }
