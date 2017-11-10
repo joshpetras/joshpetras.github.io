@@ -50,7 +50,7 @@ body > div.container > div > div.col-md-6 > span {
   text-shadow: 1px 1px 3px blue;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 992px) {
   body > div.container > div > div.col-md-6 > span {
     font-size: .75rem;
   }
